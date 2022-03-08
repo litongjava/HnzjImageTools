@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+  <!-- 这个是保存拍照图片的路径,必须配置。 -->
+  <external-path
+    name="images"
+    path="Pictures" />
+
+  <files-path
+    name="my_images"
+    path="images" />
+  <!--共享文件到QQ中时需要-->
+  <external-path
+    name="external_files"
+    path="." />
+
+</paths>
